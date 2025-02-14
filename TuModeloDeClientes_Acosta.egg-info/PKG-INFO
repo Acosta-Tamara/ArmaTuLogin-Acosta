@@ -1,0 +1,17 @@
+Metadata-Version: 2.2
+Name: TuModeloDeClientes_Acosta
+Version: 1.0
+Summary: Un paquete para modelar clientes en una página de compras
+Author: Tu Nombre
+Author-email: tuemail@example.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: license
+Dynamic: requires-python
+Dynamic: summary

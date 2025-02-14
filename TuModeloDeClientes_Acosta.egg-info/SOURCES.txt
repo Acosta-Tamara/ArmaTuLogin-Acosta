@@ -1,0 +1,10 @@
+README.md
+setup.py
+TuModeloDeClientes_Acosta.egg-info/PKG-INFO
+TuModeloDeClientes_Acosta.egg-info/SOURCES.txt
+TuModeloDeClientes_Acosta.egg-info/dependency_links.txt
+TuModeloDeClientes_Acosta.egg-info/top_level.txt
+clientes/__init__.py
+clientes/cliente.py
+clientes/login.py
+clientes/registro.py
